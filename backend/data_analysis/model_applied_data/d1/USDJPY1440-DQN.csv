@@ -1,0 +1,71 @@
+,Strategy
+Start Period,2020-10-06
+End Period,2023-12-04
+Risk-Free Rate,0.0%
+Time in Market,21.0%
+Cumulative Return,-23.19%
+CAGR﹪,-5.6%
+Sharpe,-1.11
+Prob. Sharpe Ratio,1.0%
+Smart Sharpe,-1.1
+Sortino,-1.34
+Smart Sortino,-1.33
+Sortino/√2,-0.95
+Smart Sortino/√2,-0.94
+Omega,0.65
+Max Drawdown,-26.84%
+Longest DD Days,1118
+Volatility (ann.),5.92%
+Calmar,-0.21
+Skew,-1.96
+Kurtosis,19.89
+Expected Daily,-0.03%
+Expected Monthly,-0.67%
+Expected Yearly,-6.38%
+Kelly Criterion,-24.16%
+Risk of Ruin,0.0%
+Daily Value-at-Risk,-0.64%
+Expected Shortfall (cVaR),-0.64%
+Max Consecutive Wins,1
+Max Consecutive Losses,1
+Gain/Pain Ratio,-0.35
+Gain/Pain (1M),-0.6
+Payoff Ratio,0.8
+Profit Factor,0.65
+Common Sense Ratio,0.39
+CPC Index,0.23
+Tail Ratio,0.6
+Outlier Win Ratio,21.33
+Outlier Loss Ratio,2.58
+MTD,1.12%
+3M,0.49%
+6M,-4.74%
+YTD,-10.19%
+1Y,-9.86%
+3Y (ann.),-5.82%
+5Y (ann.),-5.6%
+10Y (ann.),-5.6%
+All-time (ann.),-5.6%
+Best Day,2.47%
+Worst Day,-3.13%
+Best Month,6.37%
+Worst Month,-5.38%
+Best Year,-1.04%
+Worst Year,-10.19%
+Avg. Drawdown,-9.11%
+Avg. Drawdown Days,375
+Recovery Factor,0.96
+Ulcer Index,0.14
+Serenity Index,-0.03
+Avg. Up Month,1.33%
+Avg. Down Month,-1.65%
+Win Days,44.66%
+Win Month,33.33%
+Win Quarter,23.08%
+Win Year,0.0%
+Action Sell,594
+Action Buy,396
+Total Reward,-279839.9999999979
+Total Profit,0.7681125786329663
+Ticket,USDJPY1440
+Model,DQN

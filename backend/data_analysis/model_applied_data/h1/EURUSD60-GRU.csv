@@ -1,0 +1,71 @@
+,Strategy
+Start Period,2020-01-01
+End Period,2035-02-19
+Risk-Free Rate,0.0%
+Time in Market,100.0%
+Cumulative Return,-3.7%
+CAGR﹪,-0.17%
+Sharpe,-11.14
+Prob. Sharpe Ratio,0.0%
+Smart Sharpe,-6.59
+Sortino,-10.03
+Smart Sortino,-5.93
+Sortino/√2,-7.09
+Smart Sortino/√2,-4.19
+Omega,0.16
+Max Drawdown,-3.7%
+Longest DD Days,5528
+Volatility (ann.),0.02%
+Calmar,-0.05
+Skew,0.84
+Kurtosis,6.31
+Expected Daily,-0.0%
+Expected Monthly,-0.02%
+Expected Yearly,-0.24%
+Kelly Criterion,-84.99%
+Risk of Ruin,0.0%
+Daily Value-at-Risk,-0.0%
+Expected Shortfall (cVaR),-0.0%
+Max Consecutive Wins,9
+Max Consecutive Losses,71
+Gain/Pain Ratio,-0.84
+Gain/Pain (1M),-0.99
+Payoff Ratio,0.82
+Profit Factor,0.16
+Common Sense Ratio,0.07
+CPC Index,0.02
+Tail Ratio,0.45
+Outlier Win Ratio,2.7
+Outlier Loss Ratio,3.26
+MTD,-0.02%
+3M,-0.08%
+6M,-0.11%
+YTD,-0.06%
+1Y,-0.23%
+3Y (ann.),-0.14%
+5Y (ann.),-0.16%
+10Y (ann.),-0.17%
+All-time (ann.),-0.17%
+Best Day,0.01%
+Worst Day,-0.01%
+Best Month,0.02%
+Worst Month,-0.05%
+Best Year,-0.06%
+Worst Year,-0.36%
+Avg. Drawdown,-3.7%
+Avg. Drawdown Days,5528
+Recovery Factor,1.02
+Ulcer Index,0.02
+Serenity Index,-0.0
+Avg. Up Month,0.0%
+Avg. Down Month,-0.02%
+Win Days,16.51%
+Win Month,6.04%
+Win Quarter,0.0%
+Win Year,0.0%
+Action Sell,0
+Action Buy,0
+Total Reward,0
+Total Profit,9630.229000000047
+Ticket,EURUSD60
+Model,GRU

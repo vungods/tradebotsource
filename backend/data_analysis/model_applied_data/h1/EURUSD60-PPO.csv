@@ -1,0 +1,71 @@
+,Strategy
+Start Period,2023-04-17
+End Period,2023-12-04
+Risk-Free Rate,0.0%
+Time in Market,23.0%
+Cumulative Return,-24.22%
+CAGR﹪,-26.21%
+Sharpe,-1.54
+Prob. Sharpe Ratio,0.0%
+Smart Sharpe,-1.53
+Sortino,-1.94
+Smart Sortino,-1.93
+Sortino/√2,-1.38
+Smart Sortino/√2,-1.36
+Omega,0.53
+Max Drawdown,-24.47%
+Longest DD Days,231
+Volatility (ann.),1.14%
+Calmar,-1.07
+Skew,-0.89
+Kurtosis,38.24
+Expected Daily,-0.01%
+Expected Monthly,-3.04%
+Expected Yearly,-24.22%
+Kelly Criterion,-30.88%
+Risk of Ruin,0.0%
+Daily Value-at-Risk,-0.13%
+Expected Shortfall (cVaR),-0.13%
+Max Consecutive Wins,1
+Max Consecutive Losses,1
+Gain/Pain Ratio,-0.7
+Gain/Pain (1M),-1.0
+Payoff Ratio,1.0
+Profit Factor,0.53
+Common Sense Ratio,0.2
+CPC Index,0.18
+Tail Ratio,0.38
+Outlier Win Ratio,21.84
+Outlier Loss Ratio,2.65
+MTD,-0.44%
+3M,-11.99%
+6M,-21.29%
+YTD,-24.22%
+1Y,-24.22%
+3Y (ann.),-26.21%
+5Y (ann.),-26.21%
+10Y (ann.),-26.21%
+All-time (ann.),-26.21%
+Best Day,0.81%
+Worst Day,-0.9%
+Best Month,-0.44%
+Worst Month,-6.56%
+Best Year,-24.22%
+Worst Year,-24.22%
+Avg. Drawdown,-24.47%
+Avg. Drawdown Days,231
+Recovery Factor,1.13
+Ulcer Index,0.14
+Serenity Index,-0.01
+Avg. Up Month,-
+Avg. Down Month,-3.01%
+Win Days,34.55%
+Win Month,0.0%
+Win Quarter,0.0%
+Win Year,0.0%
+Action Sell,2537
+Action Buy,1414
+Total Reward,-631.0000000000095
+Total Profit,0.7577541328868922
+Ticket,EURUSD60
+Model,PPO

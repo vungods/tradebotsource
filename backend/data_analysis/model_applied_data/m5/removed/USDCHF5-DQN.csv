@@ -1,0 +1,71 @@
+,Strategy
+Start Period,2023-11-14
+End Period,2023-12-01
+Risk-Free Rate,0.0%
+Time in Market,8.0%
+Cumulative Return,-7.56%
+CAGR﹪,-68.81%
+Sharpe,-1.52
+Prob. Sharpe Ratio,0.0%
+Smart Sharpe,-1.51
+Sortino,-1.88
+Smart Sortino,-1.86
+Sortino/√2,-1.33
+Smart Sortino/√2,-1.32
+Omega,0.37
+Max Drawdown,-7.85%
+Longest DD Days,18
+Volatility (ann.),0.34%
+Calmar,-8.77
+Skew,-0.6
+Kurtosis,63.34
+Expected Daily,-0.0%
+Expected Monthly,-3.85%
+Expected Yearly,-7.56%
+Kelly Criterion,-43.11%
+Risk of Ruin,0.0%
+Daily Value-at-Risk,-0.04%
+Expected Shortfall (cVaR),-0.04%
+Max Consecutive Wins,1
+Max Consecutive Losses,1
+Gain/Pain Ratio,-1.0
+Gain/Pain (1M),-1.0
+Payoff Ratio,1.1
+Profit Factor,0.37
+Common Sense Ratio,0.0
+CPC Index,0.1
+Tail Ratio,0.0
+Outlier Win Ratio,29.75
+Outlier Loss Ratio,1.54
+MTD,-0.4%
+3M,-7.56%
+6M,-7.56%
+YTD,-7.56%
+1Y,-7.56%
+3Y (ann.),-68.81%
+5Y (ann.),-68.81%
+10Y (ann.),-68.81%
+All-time (ann.),-68.81%
+Best Day,0.31%
+Worst Day,-0.3%
+Best Month,-0.4%
+Worst Month,-7.19%
+Best Year,-7.56%
+Worst Year,-7.56%
+Avg. Drawdown,-7.85%
+Avg. Drawdown Days,18
+Recovery Factor,1.0
+Ulcer Index,0.05
+Serenity Index,-0.01
+Avg. Up Month,-
+Avg. Down Month,-3.79%
+Win Days,25.17%
+Win Month,0.0%
+Win Quarter,0.0%
+Win Year,0.0%
+Action Sell,3263
+Action Buy,513
+Total Reward,137.50000000001052
+Total Profit,0.924407812534668
+Ticket, USDCHF5
+Model,DQN

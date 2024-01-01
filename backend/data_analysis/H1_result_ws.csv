@@ -1,0 +1,10 @@
++Thiếu:
+backend: Api nhận dữ liệu gửi lên
+connect BE với tradebotsource 
+thực hiện trade và response
+=> Cần biết model nào được lựa chọn  : 1
+frontend: 
+Trả về kết quả của mô hình, dự đoán
+
++ Viết bài phân tích chi tiết hơn
++ Viết lại ERD, UI

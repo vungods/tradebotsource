@@ -1,0 +1,71 @@
+,Strategy
+Start Period,2020-10-06
+End Period,2023-12-04
+Risk-Free Rate,0.0%
+Time in Market,24.0%
+Cumulative Return,3.86%
+CAGR﹪,0.83%
+Sharpe,0.23
+Prob. Sharpe Ratio,67.69%
+Smart Sharpe,0.23
+Sortino,0.33
+Smart Sortino,0.33
+Sortino/√2,0.23
+Smart Sortino/√2,0.23
+Omega,1.09
+Max Drawdown,-7.22%
+Longest DD Days,429
+Volatility (ann.),4.63%
+Calmar,0.12
+Skew,0.26
+Kurtosis,25.53
+Expected Daily,0.0%
+Expected Monthly,0.1%
+Expected Yearly,0.95%
+Kelly Criterion,4.44%
+Risk of Ruin,0.0%
+Daily Value-at-Risk,-0.48%
+Expected Shortfall (cVaR),-0.48%
+Max Consecutive Wins,1
+Max Consecutive Losses,1
+Gain/Pain Ratio,0.09
+Gain/Pain (1M),0.22
+Payoff Ratio,0.91
+Profit Factor,1.09
+Common Sense Ratio,1.07
+CPC Index,0.54
+Tail Ratio,0.98
+Outlier Win Ratio,15.32
+Outlier Loss Ratio,2.27
+MTD,0.0%
+3M,-2.18%
+6M,0.54%
+YTD,0.77%
+1Y,-2.65%
+3Y (ann.),0.93%
+5Y (ann.),0.83%
+10Y (ann.),0.83%
+All-time (ann.),0.83%
+Best Day,3.12%
+Worst Day,-2.05%
+Best Month,5.36%
+Worst Month,-3.39%
+Best Year,2.59%
+Worst Year,-0.58%
+Avg. Drawdown,-1.84%
+Avg. Drawdown Days,97
+Recovery Factor,0.58
+Ulcer Index,0.03
+Serenity Index,0.07
+Avg. Up Month,1.07%
+Avg. Down Month,-1.2%
+Win Days,54.39%
+Win Month,57.89%
+Win Quarter,46.15%
+Win Year,75.0%
+Action Sell,400
+Action Buy,590
+Total Reward,1369.8999999999614
+Total Profit,1.0405296120653815
+Ticket,EURUSD1440
+Model,PPO - LSTM

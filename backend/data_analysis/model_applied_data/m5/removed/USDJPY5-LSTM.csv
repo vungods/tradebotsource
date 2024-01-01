@@ -1,0 +1,71 @@
+,Strategy
+Start Period,2020-01-01
+End Period,2034-06-19
+Risk-Free Rate,0.0%
+Time in Market,100.0%
+Cumulative Return,1.99%
+CAGR﹪,0.09%
+Sharpe,0.14
+Prob. Sharpe Ratio,70.39%
+Smart Sharpe,0.09
+Sortino,0.21
+Smart Sortino,0.13
+Sortino/√2,0.15
+Smart Sortino/√2,0.09
+Omega,1.03
+Max Drawdown,-8.86%
+Longest DD Days,2204
+Volatility (ann.),0.99%
+Calmar,0.01
+Skew,0.68
+Kurtosis,5.35
+Expected Daily,0.0%
+Expected Monthly,0.01%
+Expected Yearly,0.13%
+Kelly Criterion,1.15%
+Risk of Ruin,0.0%
+Daily Value-at-Risk,-0.1%
+Expected Shortfall (cVaR),-0.1%
+Max Consecutive Wins,22
+Max Consecutive Losses,19
+Gain/Pain Ratio,0.03
+Gain/Pain (1M),0.05
+Payoff Ratio,1.19
+Profit Factor,1.03
+Common Sense Ratio,1.14
+CPC Index,0.56
+Tail Ratio,1.11
+Outlier Win Ratio,3.81
+Outlier Loss Ratio,3.9
+MTD,-0.42%
+3M,-2.38%
+6M,-3.55%
+YTD,-3.05%
+1Y,-3.45%
+3Y (ann.),1.15%
+5Y (ann.),-0.02%
+10Y (ann.),0.22%
+All-time (ann.),0.09%
+Best Day,0.45%
+Worst Day,-0.41%
+Best Month,1.99%
+Worst Month,-1.28%
+Best Year,4.29%
+Worst Year,-3.5%
+Avg. Drawdown,-1.91%
+Avg. Drawdown Days,369
+Recovery Factor,0.23
+Ulcer Index,0.04
+Serenity Index,0.01
+Avg. Up Month,0.66%
+Avg. Down Month,-0.4%
+Win Days,46.28%
+Win Month,39.08%
+Win Quarter,41.38%
+Win Year,46.67%
+Action Sell,0
+Action Buy,0
+Total Reward,0
+Total Profit,10198.200000000214
+Ticket,USDJPY5
+Model,LSTM
