@@ -15,4 +15,5 @@ __pycache__/
 .DS_Store
 
 # Build directory
-dist/
+kafkaspark/data/
+backend/png_result/
