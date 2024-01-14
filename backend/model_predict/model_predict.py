@@ -161,7 +161,16 @@ def receive_values(payload: str = Body(...), db: Session = Depends(get_db)):
         # env_trade.close()"
         print("action_stats:", action_stats)
         print("action:", action)
-        create_prediction(db=db,tradebot_id=1,predict_time=timestamp+30, predict_action=int(action), predict_price=10)
+
+        # Get the last Close price from the DataFrame
+        current_close_price = df['Close'].iloc[-1]
+
+        # Calculate the predicted price based on the action
+        if action == 0:  # Sell
+            predict_price = current_close_price * 0.95
+        elif action == 1:  # Buy
+            predict_price = current_close_price * 1.05
+        create_prediction(db=db,tradebot_id=1,predict_time=timestamp+30, predict_action=int(action), predict_price=predict_price)
         print("info:", info)
         return {"message": "JSON parsed and received successfully"}
     except json.JSONDecodeError as json_error:

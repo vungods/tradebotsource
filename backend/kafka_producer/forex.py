@@ -55,10 +55,10 @@ def send_data_to_kafka(producer, topic, data):
 def main():
     # ... Các thiết lập cho Kafka ...
 
-    ticker_input = 'USDCHF'
-    timeframe_input = 'i30'
+    ticker_input = 'EURUSD'
+    timeframe_input = 'i5'
     producer = Producer({'bootstrap.servers': 'localhost:9091,localhost:9092,localhost:9093'})
-    topic = "USDCHF_i30"
+    topic = "EURUSD_m5"
 
     while True:
         result = get_finviz_data(ticker_input, timeframe_input)

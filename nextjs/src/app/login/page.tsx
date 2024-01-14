@@ -58,7 +58,7 @@ export default function Login() {
             })
           );
         }
-        router.push("/");
+        router.push("/tradebots");
       } catch (error) {
         console.error("Error:", error);
       }
